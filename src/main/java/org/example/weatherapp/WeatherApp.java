@@ -15,7 +15,7 @@ public class WeatherApp {
         private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
         public static void main(String[] args) {
-            String city = "Ylivieska";
+            String city = "Kuopio";
             // ajetaan getData kaupunki parametrina.
             getData(city);
         }
