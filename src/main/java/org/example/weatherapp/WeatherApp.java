@@ -11,7 +11,7 @@ import org.json.JSONArray;
 
 public class WeatherApp {
 
-        private static final String API_KEY = "8d16a0b061538d391013d2f75e0ef69a";
+        private static final String API_KEY = "*****************";
         private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
         public static void main(String[] args) {
